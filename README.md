@@ -107,7 +107,7 @@ See [QUICKSTART.md](QUICKSTART.md) for full installation instructions.
 ```bash
 # Clone
 git clone https://github.com/Arc1011/PyUnixOS
-cd kernelos
+cd PyUnixOS
 
 # Pre-compile (recommended — avoids MemoryError on large files)
 git clone https://github.com/micropython/micropython
