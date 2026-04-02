@@ -1,0 +1,20 @@
+# Compiled MicroPython bytecode
+*.mpy
+
+# mpy-cross build artifacts
+micropython/
+mpy-cross/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
